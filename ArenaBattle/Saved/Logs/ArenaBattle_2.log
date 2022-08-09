@@ -1,0 +1,1273 @@
+﻿Log file open, 08/09/22 20:01:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArenaBattle
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1682681481) SRandInit(-1682681481).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.707256
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Binaries/Win64/UE4Editor-ArenaBattle-9397.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-R2S8HD4 (192.168.0.7:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.08.09-11.01.53:573][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.09-11.01.53:573][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.09-11.01.53:583][  0]LogInit: Computer: DESKTOP-R2S8HD4
+[2022.08.09-11.01.53:583][  0]LogInit: User: ksol9
+[2022.08.09-11.01.53:583][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.09-11.01.53:583][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.09-11.01.53:583][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.09-11.01.53:583][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.09-11.01.53:583][  0]LogMemory: Process Physical Memory: 278.05 MB used, 278.05 MB peak
+[2022.08.09-11.01.53:583][  0]LogMemory: Process Virtual Memory: 272.18 MB used, 272.18 MB peak
+[2022.08.09-11.01.53:583][  0]LogMemory: Physical Memory: 6791.56 MB used,  9500.70 MB free, 16292.26 MB total
+[2022.08.09-11.01.53:583][  0]LogMemory: Virtual Memory: 4813.26 MB used,  9500.70 MB free, 134217728.00 MB total
+[2022.08.09-11.01.53:621][  0]LogInit: Using OS detected language (ko-KR).
+[2022.08.09-11.01.53:621][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.08.09-11.01.53:625][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.08.09-11.01.53:946][  0]LogStreaming: Display: Took  0.325s to EndInitTextLocalization.
+[2022.08.09-11.01.53:947][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.09-11.01.53:981][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.09-11.01.53:981][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.09-11.01.54:203][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.09-11.01.54:296][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2022.08.09-11.01.54:296][  0]LogD3D11RHI:       2988/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.09-11.01.54:298][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.09-11.01.54:298][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.09-11.01.54:298][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.08.09-11.01.54:304][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.09-11.01.54:304][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.09-11.01.54:304][  0]LogWindows: EnumDisplayDevices:
+[2022.08.09-11.01.54:304][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2022.08.09-11.01.54:304][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.08.09-11.01.54:304][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.08.09-11.01.54:305][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.08.09-11.01.54:305][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.08.09-11.01.54:305][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2022.08.09-11.01.54:305][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.08.09-11.01.54:305][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.08.09-11.01.54:305][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2022.08.09-11.01.54:376][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.09-11.01.54:376][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.09-11.01.54:376][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.09-11.01.54:388][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.09-11.01.54:390][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Intermediate/Shaders/WorkingDirectory/14116/).
+[2022.08.09-11.01.54:390][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ksol9/AppData/Local/Temp/UnrealShaderWorkingDir/F8BF9FE34F7726E3D44CC2B5C96C5A0D/'.
+[2022.08.09-11.01.54:583][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.08.09-11.01.54:598][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.08.09-11.01.54:613][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.08.09-11.01.54:628][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.08.09-11.01.54:643][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.08.09-11.01.54:658][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.08.09-11.01.54:673][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.08.09-11.01.54:688][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.08.09-11.01.54:696][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.08.09-11.01.54:709][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2022.08.09-11.01.54:722][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2022.08.09-11.01.54:734][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2022.08.09-11.01.54:746][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2022.08.09-11.01.54:759][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2022.08.09-11.01.54:772][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2022.08.09-11.01.54:798][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2022.08.09-11.01.54:798][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2022.08.09-11.01.54:811][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.08.09-11.01.54:813][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.08.09-11.01.54:852][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.08.09-11.01.54:864][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.08.09-11.01.54:876][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.08.09-11.01.54:888][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.08.09-11.01.54:901][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.08.09-11.01.54:914][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.08.09-11.01.54:914][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.09-11.01.55:054][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.09-11.01.55:054][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.09-11.01.55:054][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.09-11.01.55:775][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.09-11.01.55:833][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/ksol9/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2022.08.09-11.01.55:833][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ksol9/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2022.08.09-11.01.55:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.09-11.01.55:833][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.09-11.01.55:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.09-11.01.55:833][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.09-11.01.55:849][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.09-11.01.55:862][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ksol9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.09-11.01.55:862][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.09-11.01.55:862][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.09-11.01.55:871][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.08.09-11.01.55:872][  0]LogSlate: Using Freetype 2.6.0
+[2022.08.09-11.01.55:872][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.09-11.01.55:872][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.09-11.01.56:016][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2022.08.09-11.01.56:177][  0]LogCollisionProfile: Warning: ProfileRedirect (ABCharacer : ABCharater) - New Name ('ABCharater') isn't found 
+[2022.08.09-11.01.56:295][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.09-11.01.56:424][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.08.09-11.01.56:427][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.08.09-11.01.56:427][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.09-11.01.56:427][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.08.09-11.01.56:427][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.08.09-11.01.56:427][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.08.09-11.01.56:460][  0]LogNetVersion: ArenaBattle , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3555152549)
+[2022.08.09-11.01.56:821][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.068598 seconds
+[2022.08.09-11.01.56:826][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2022.08.09-11.01.56:826][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2022.08.09-11.01.56:826][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.09-11.01.58:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.09-11.01.58:318][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.09-11.01.58:611][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.294300ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+[2022.08.09-11.01.58:623][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020c92dc4ac0, Size=20, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.09-11.01.58:629][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020c92dc4ac0, Size=20
+[2022.08.09-11.01.58:629][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020c92df49e8, Size=20, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_0:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.09-11.01.58:635][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020c9370bb38, Size=20, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.09-11.01.58:826][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.09-11.01.58:826][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.09-11.01.58:848][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.09-11.01.58:870][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.09-11.01.59:441][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.09-11.01.59:655][  0]LogOcInput: OculusInput pre-init called
+[2022.08.09-11.01.59:766][  0]LogEngine: Initializing Engine...
+[2022.08.09-11.01.59:767][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.09-11.01.59:769][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.08.09-11.01.59:769][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.08.09-11.01.59:929][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.09-11.01.59:961][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-11.01.59:995][  0]LogInit: FAudioDevice initialized.
+[2022.08.09-11.02.00:043][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/ksol9/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2022.08.09-11.02.00:054][  0]LogInit: Texture streaming: Enabled
+[2022.08.09-11.02.00:075][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.09-11.02.00:089][  0]LogInit: Transaction tracking system initialized
+[2022.08.09-11.02.00:118][  0]BlueprintLog: New page: 에디터 로드
+[2022.08.09-11.02.00:209][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.08.09-11.02.00:316][  0]LogConsoleResponse: Display: 
+[2022.08.09-11.02.00:425][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.08.09-11.02.00:425][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.09-11.02.00:425][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.08.09-11.02.00:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.08.09-11.02.00:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.08.09-11.02.00:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/' took 0.03s
+[2022.08.09-11.02.00:856][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.09-11.02.00:856][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.09-11.02.00:857][  0]LightingResults: New page: 라이팅 빌드
+[2022.08.09-11.02.00:860][  0]MapCheck: New page: 맵 체크
+[2022.08.09-11.02.00:860][  0]LightingResults: New page: 라이팅 빌드
+[2022.08.09-11.02.00:864][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020c92df49e8, Size=20
+[2022.08.09-11.02.01:035][  0]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-11.02.01:041][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.09-11.02.01:047][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.09-11.02.01:120][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 73.134ms.
+[2022.08.09-11.02.01:120][  0]LogFileHelpers: Loading map 'Step2' took 0.264
+[2022.08.09-11.02.01:236][  0]LogCollectionManager: Loaded 0 collections in 0.002161 seconds
+[2022.08.09-11.02.01:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Collections/' took 0.01s
+[2022.08.09-11.02.01:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Developers/ksol9/Collections/' took 0.01s
+[2022.08.09-11.02.01:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Collections/' took 0.01s
+[2022.08.09-11.02.01:278][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.08.09-11.02.01:286][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2458 classes and 560 folders.
+[2022.08.09-11.02.01:294][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.08.09-11.02.01:341][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.08.09-11.02.01:348][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2022.08.09-11.02.01:401][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.09-11.02.01:404][  0]LogSlate: Took 0.002046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.08.09-11.02.01:407][  0]LogSlate: Took 0.002073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.08.09-11.02.01:407][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.09-11.02.01:411][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.09-11.02.01:480][  0]LogRenderer: Reallocating scene render targets to support 1232x576 Format 10 NumSamples 1 (Frame:1).
+[2022.08.09-11.02.01:592][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.08.09-11.02.01:592][  0]LogLoad: (Engine Initialization) Total time: 12.02 seconds
+[2022.08.09-11.02.01:592][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.09-11.02.01:624][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.09-11.02.01:681][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.09-11.02.01:701][  1]LogAssetRegistry: Asset discovery search completed in 5.7074 seconds
+[2022.08.09-11.02.01:704][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.08.09-11.02.01:704][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2022.08.09-11.02.05:722][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-11.07.50:013][ 28]LogSlate: Took 0.002755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.09-11.07.50:039][ 28]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2022.08.09-11.07.50:342][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.09-11.07.50:352][ 28]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2022.08.09-11.07.50:851][ 28]LogSlate: Took 0.005109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.09-11.07.50:919][ 28]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2022.08.09-11.07.50:934][ 28]LogRenderer: Reallocating scene render targets to support 1232x888 Format 10 NumSamples 1 (Frame:1).
+[2022.08.09-11.07.54:560][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2022.08.09-11.09.19:045][797]LogTexture: Display: 텍스처 빌드: T_Blade_DragonSword2_M (AutoDXT, 256X256)
+[2022.08.09-11.09.19:045][797]LogTexture: Display: 텍스처 빌드: T_Blade_DragonSword2_N (BC5, 256X256)
+[2022.08.09-11.09.19:045][797]LogTexture: Display: 텍스처 빌드: T_Blade_DragonSword1_N (BC5, 256X256)
+[2022.08.09-11.09.19:045][797]LogTexture: Display: 텍스처 빌드: T_Blade_DragonSword1_M (AutoDXT, 256X256)
+[2022.08.09-11.09.19:045][797]LogTexture: Display: 텍스처 빌드: T_Blade_DragonSword2_D (AutoDXT, 256X256)
+[2022.08.09-11.09.19:045][797]LogTexture: Display: 텍스처 빌드: T_Blade_DragonSword1_D (AutoDXT, 256X256)
+[2022.08.09-11.09.19:045][797]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_DragonSword...
+[2022.08.09-11.09.19:046][797]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword.SK_Blade_DragonSword
+[2022.08.09-11.09.19:048][797]LogMaterial: Missing cached shader map for material M_Blade_DragonSword, compiling. 
+[2022.08.09-11.09.19:091][797]LogShaderCompilers: Display: Shaders left to compile 60
+[2022.08.09-11.09.19:091][797]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.08.09-11.09.19:091][797]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.08.09-11.09.19:091][797]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.08.09-11.09.19:091][797]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.08.09-11.09.19:091][797]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.08.09-11.09.39:154][912]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword2_D (AutoDXT, 256X256)
+[2022.08.09-11.09.39:154][912]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword1_M (AutoDXT, 256X256)
+[2022.08.09-11.09.39:154][912]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword2_M (AutoDXT, 256X256)
+[2022.08.09-11.09.39:154][912]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword1_D (AutoDXT, 256X256)
+[2022.08.09-11.09.39:155][912]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword1_N (BC5, 256X256)
+[2022.08.09-11.09.39:155][912]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword2_N (BC5, 256X256)
+[2022.08.09-11.09.39:155][912]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_BlackKnight...
+[2022.08.09-11.09.39:155][912]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight
+[2022.08.09-11.09.39:156][912]LogMaterial: Missing cached shader map for material M_Blade_BlackKnight, compiling. 
+[2022.08.09-11.09.39:176][912]LogShaderCompilers: Display: Shaders left to compile 60
+[2022.08.09-11.09.39:176][912]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.08.09-11.09.39:176][912]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.08.09-11.09.39:176][912]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.08.09-11.09.39:176][912]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.08.09-11.09.39:176][912]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.08.09-11.10.02:575][309]LogTexture: Display: 텍스처 빌드: T_Blade_ChickenBlade2_N (BC5, 512X512)
+[2022.08.09-11.10.02:575][309]LogTexture: Display: 텍스처 빌드: T_Blade_ChickenBlade2_D (AutoDXT, 512X512)
+[2022.08.09-11.10.02:575][309]LogTexture: Display: 텍스처 빌드: T_Blade_ChickenBlade1_N (BC5, 512X512)
+[2022.08.09-11.10.02:575][309]LogTexture: Display: 텍스처 빌드: T_Blade_ChickenBlade1_D (AutoDXT, 512X512)
+[2022.08.09-11.10.02:575][309]LogMaterial: Missing cached shader map for material M_Blade_ChickenBlade, compiling. 
+[2022.08.09-11.10.02:589][309]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_ChickenBlade...
+[2022.08.09-11.10.02:589][309]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Silly_Weapons/Blade_ChickenBlade/SK_Blade_ChickenBlade.SK_Blade_ChickenBlade
+[2022.08.09-11.10.02:624][310]LogShaderCompilers: Display: Shaders left to compile 60
+[2022.08.09-11.10.02:624][310]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.08.09-11.10.02:624][310]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.08.09-11.10.02:624][310]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.08.09-11.10.02:624][310]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.08.09-11.10.02:624][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.08.09-11.11.44:377][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-11.12.17:524][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.005
+[2022.08.09-11.12.17:527][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2022.08.09-11.12.17:527][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2022.08.09-11.12.17:542][492]LogSavePackage: Save=5.06ms
+[2022.08.09-11.12.17:542][492]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton_Auto1F04CF8C3467229CF76B9BE8C87EB46F5.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset'
+[2022.08.09-11.12.17:544][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset
+[2022.08.09-11.12.17:545][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard] ([1] browsable assets)...
+[2022.08.09-11.12.17:553][492]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard]
+[2022.08.09-11.12.17:553][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard]
+[2022.08.09-11.12.17:575][492]LogSavePackage: Save=12.34ms
+[2022.08.09-11.12.17:575][492]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_CharM_Cardboard_Auto12EFDE98045380B8BB4B7BEA34C674120.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard_Auto1.uasset'
+[2022.08.09-11.12.17:577][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard_Auto1.uasset
+[2022.08.09-11.12.17:577][492]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.08.09-11.13.50:800][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.13.51:198][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.13.51:877][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.14.10:791][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.14.16:872][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.14.21:174][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.14.24:315][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.14.27:028][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.14.37:168][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-11.15.52:448][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-11.15.52:542][ 21]LogSavePackage: Save=4.36ms
+[2022.08.09-11.15.52:542][ 21]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton3AA8D1914930A3B1238AB9B1B366129C.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.15.52:543][ 21]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset', retrying in .5s...
+[2022.08.09-11.15.53:044][ 21]LogFileManager: Error: Error deleting file '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'.
+[2022.08.09-11.15.53:044][ 21]LogSavePackage: Error: Error saving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.15.53:045][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2022.08.09-11.16.04:419][ 21]LogSlate: Window '메시지' being destroyed
+[2022.08.09-11.16.04:435][ 21]LogSavePackage: Save=4.25ms
+[2022.08.09-11.16.04:435][ 21]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton11707AFA442D8584389B4C91C8C11DE7.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.16.04:436][ 21]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset', retrying in .5s...
+[2022.08.09-11.16.04:936][ 21]LogFileManager: Error: Error deleting file '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'.
+[2022.08.09-11.16.04:936][ 21]LogSavePackage: Error: Error saving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.16.04:937][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2022.08.09-11.16.30:287][ 21]LogSlate: Window '메시지' being destroyed
+[2022.08.09-11.16.30:293][ 21]EditorErrors: New page: 출력 저장
+[2022.08.09-11.16.30:293][ 21]EditorErrors: Warning: '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset' 저장 오류입니다.
+[2022.08.09-11.16.30:293][ 21]EditorErrors: Warning: '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset' 저장 오류입니다.
+[2022.08.09-11.16.32:807][ 21]LogSlate: Window '패키지 저장 실패' being destroyed
+[2022.08.09-11.16.43:164][ 97]LogSlate: Window '메시지 로그' being destroyed
+[2022.08.09-11.16.43:167][ 97]LogSlate: Window '메시지 로그' being destroyed
+[2022.08.09-11.16.45:906][386]LogSavePackage: Save=4.08ms
+[2022.08.09-11.16.45:906][386]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton29C2D2B342E6121DCBBA03A3A6855BB4.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.16.45:907][386]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset', retrying in .5s...
+[2022.08.09-11.16.46:407][386]LogFileManager: Error: Error deleting file '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'.
+[2022.08.09-11.16.46:407][386]LogSavePackage: Error: Error saving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.16.46:408][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2022.08.09-11.16.53:296][386]LogSlate: Window '메시지' being destroyed
+[2022.08.09-11.16.53:312][386]LogSavePackage: Save=4.20ms
+[2022.08.09-11.16.53:312][386]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton21B129B14678CD71E1078A96E4616B69.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.16.53:313][386]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset', retrying in .5s...
+[2022.08.09-11.16.53:814][386]LogFileManager: Error: Error deleting file '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'.
+[2022.08.09-11.16.53:814][386]LogSavePackage: Error: Error saving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-11.16.53:815][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2022.08.09-11.16.56:325][386]LogSlate: Window '메시지' being destroyed
+[2022.08.09-11.16.56:331][386]EditorErrors: New page: 출력 저장
+[2022.08.09-11.16.56:331][386]EditorErrors: Warning: '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset' 저장 오류입니다.
+[2022.08.09-11.16.56:331][386]EditorErrors: Warning: '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset' 저장 오류입니다.
+[2022.08.09-11.16.57:491][386]LogSlate: Window '패키지 저장 실패' being destroyed
+[2022.08.09-11.16.58:772][501]LogSlate: Window '메시지 로그' being destroyed
+[2022.08.09-11.16.58:775][501]LogSlate: Window '메시지 로그' being destroyed
+[2022.08.09-11.17.09:832][718]LogSlate: Window 'SK_Mannequin_Skeleton*' being destroyed
+[2022.08.09-11.17.09:835][718]LogSlate: Window 'SK_Mannequin_Skeleton*' being destroyed
+[2022.08.09-11.17.12:438][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2022.08.09-11.17.16:178][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2022.08.09-11.17.30:878][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-11.17.30:959][935]LogSlate: Window 'SK_Mannequin_Skeleton*' being destroyed
+[2022.08.09-11.17.30:962][935]LogSlate: Window 'SK_Mannequin_Skeleton*' being destroyed
+[2022.08.09-11.17.35:530][460]ArenaBattle: Warning: AFountain::PostInitializeComponents(78)
+[2022.08.09-11.17.35:544][461]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-11.22.18:036][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.007
+[2022.08.09-11.22.18:038][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2022.08.09-11.22.18:038][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2022.08.09-11.22.18:052][775]LogSavePackage: Save=4.41ms
+[2022.08.09-11.22.18:052][775]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton_Auto2B51EB909442CC03F13AD09A32EEDE2BB.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto2.uasset'
+[2022.08.09-11.22.18:054][775]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto2.uasset
+[2022.08.09-11.22.18:054][775]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.08.09-11.27.30:869][ 20]LogHotReload: New module detected: UE4Editor-ArenaBattle-1996.dll
+[2022.08.09-11.27.31:881][ 24]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-11.27.31:902][ 24]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.09-11.27.31:902][ 24]LogClass: Function OnAttackMontageEnded is new.
+[2022.08.09-11.27.31:907][ 24]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-11.27.32:061][ 24]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-11.27.32:146][ 24]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 6 classes and 2 folders.
+[2022.08.09-11.27.32:148][ 24]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.08.09-11.27.32:334][ 24]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2460 classes and 564 folders.
+[2022.08.09-11.27.32:345][ 24]Display: HotReload took  0.5s.
+[2022.08.09-11.27.38:514][218]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.09-11.27.38:526][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.27.38:527][218]PIE: New page: PIE 세션: Step2 (2022. 8. 10. 오전 5:27:38)
+[2022.08.09-11.27.38:527][218]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.09-11.27.38:529][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002241s)
+[2022.08.09-11.27.38:530][218]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-11.27.38:530][218]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2022.08.09-11.27.38:530][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003091s)
+[2022.08.09-11.27.38:556][218]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-11.27.38:584][218]LogInit: FAudioDevice initialized.
+[2022.08.09-11.27.38:623][218]LogLoad: Game class is 'ABGameMode'
+[2022.08.09-11.27.38:624][218]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.09-20.27.38
+[2022.08.09-11.27.38:624][218]LogWorld: Bringing up level for play took: 0.001245
+[2022.08.09-11.27.38:625][218]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.09-11.27.38:625][218]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.09-11.27.38:652][218]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2022.08.09-11.27.38:653][218]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.09-11.27.38:653][218]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.09-11.27.38:654][218]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: -0.408
+[2022.08.09-11.27.46:145][113]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.46:662][175]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.47:220][242]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.49:678][537]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.50:196][599]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.50:753][666]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.53:337][976]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.53:854][ 38]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.54:411][105]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.56:961][411]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.57:478][473]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.27.58:037][540]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.00:645][853]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.02:362][ 59]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.02:879][121]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.03:437][188]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.06:054][502]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.06:570][564]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.07:129][631]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.09:762][947]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.10:279][  9]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.10:837][ 76]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.13:253][366]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.13:770][428]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.14:328][495]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.16:837][796]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.17:353][858]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.17:912][925]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-11.28.20:296][211]ArenaBattle: Warning: AABCharacter::AttackCheck(354) Hit Actor Name : ABCharacter_2
+[2022.08.09-11.28.20:296][211]ArenaBattle: Warning: AABCharacter::TakeDamage(172) Actor : ABCharacter_2 took Damage : 50.000000
+[2022.08.09-11.28.20:639][252]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_69134bd1f430227bd7673717d613005e>::operator ()(155) OnNextAttackCheck
+[2022.08.09-12.08.11:564][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.08.13:164][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.08.13:804][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.08.15:042][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.08.15:068][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.08.15:082][344]LogSlate: Took 0.002148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.09-12.08.43:681][735]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ArenaBattle Win64 Development -editorrecompile "C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/ArenaBattle.uproject" -invalidatemakefilesonly
+[2022.08.09-12.08.43:889][735]Invalidating makefiles only in this run.
+[2022.08.09-12.08.44:003][735]LogVSAccessor: Warning: Couldn't save all documents
+[2022.08.09-12.08.44:007][735]Candidate modules for hot reload:
+[2022.08.09-12.08.44:007][735]  ArenaBattle
+[2022.08.09-12.08.44:008][735]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ArenaBattle -ModuleWithSuffix=ArenaBattle,6292 Win64 Development -editorrecompile -canskiplink "C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/ArenaBattle.uproject" ]
+[2022.08.09-12.09.04:197][735]CompilerResultsLog: New page: 컴파일 - 2022. 8. 10. 오전 6:09:04
+[2022.08.09-12.09.04:197][735]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2022.08.09-12.09.04:197][735]CompilerResultsLog: Creating makefile for hot reloading ArenaBattle (no existing makefile)
+[2022.08.09-12.09.04:197][735]CompilerResultsLog: Compiling game modules for hot reload
+[2022.08.09-12.09.04:197][735]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2022.08.09-12.09.04:197][735]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2022.08.09-12.09.04:197][735]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\ArenaBattle.uproject" "C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.643242 seconds
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: Performing 5 actions (12 in parallel)
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: ABWeapon.cpp
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: ABWeapon.gen.cpp
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: ArenaBattle.init.gen.cpp
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: [4/5] Link UE4Editor-ArenaBattle-6292.dll
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: [5/5] Link UE4Editor-ArenaBattle-6292.lib
+[2022.08.09-12.09.04:198][735]CompilerResultsLog:    C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-6292.lib ???̺귯?? ?? C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-6292.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.08.09-12.09.04:198][735]CompilerResultsLog:    C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-6292.suppressed.lib ???̺귯?? ?? C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-6292.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.08.09-12.09.04:198][735]CompilerResultsLog: Total build time: 20.04 seconds (Local executor: 5.38 seconds)
+[2022.08.09-12.09.04:198][735]LogMainFrame: MainFrame: Module compiling took 20.194 seconds
+[2022.08.09-12.09.04:585][735]LogClass: Could not find existing class ABWeapon in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.09-12.09.04:589][735]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-12.09.04:710][735]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-12.09.04:792][735]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 7 classes and 2 folders.
+[2022.08.09-12.09.04:793][735]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.09.04:824][735]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2461 classes and 564 folders.
+[2022.08.09-12.09.04:824][735]Display: HotReload took 20.8s.
+[2022.08.09-12.09.04:825][735]Warning: HotReload operation took 20.8s.
+[2022.08.09-12.09.04:974][735]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Source/ArenaBattle/ABWeapon.cpp'
+[2022.08.09-12.09.04:982][735]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2022.08.09-12.09.04:986][735]LogHotReload: New module detected: UE4Editor-ArenaBattle-6292.dll
+[2022.08.09-12.09.05:002][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.09.05:016][736]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-12.09.05:043][736]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0007 seconds. Added 7 classes and 2 folders.
+[2022.08.09-12.09.05:043][736]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.09.05:060][736]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2461 classes and 564 folders.
+[2022.08.09-12.09.05:063][736]Display: HotReload took  0.0s.
+[2022.08.09-12.09.05:068][736]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-12.13.06:017][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.15.46:414][  7]LogHotReload: New module detected: UE4Editor-ArenaBattle-8124.dll
+[2022.08.09-12.15.47:092][ 10]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-12.15.47:428][ 10]LogClass: Could not find existing class ABWeapon in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.09-12.15.47:432][ 10]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-12.15.47:552][ 10]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-12.15.47:633][ 10]LogHotReload: Re-instancing ABWeapon after hot-reload.
+[2022.08.09-12.15.47:673][ 10]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 7 classes and 2 folders.
+[2022.08.09-12.15.47:674][ 10]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.15.47:703][ 10]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2461 classes and 564 folders.
+[2022.08.09-12.15.47:706][ 10]Display: HotReload took  0.6s.
+[2022.08.09-12.21.51:196][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.21.51:246][280]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.09-12.21.51:259][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-12.21.51:259][280]PIE: New page: PIE 세션: Step2 (2022. 8. 10. 오전 6:21:51)
+[2022.08.09-12.21.51:259][280]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.09-12.21.51:262][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002549s)
+[2022.08.09-12.21.51:263][280]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-12.21.51:263][280]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2022.08.09-12.21.51:263][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003782s)
+[2022.08.09-12.21.51:293][280]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-12.21.51:322][280]LogInit: FAudioDevice initialized.
+[2022.08.09-12.21.51:355][280]LogLoad: Game class is 'ABGameMode'
+[2022.08.09-12.21.51:356][280]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.09-21.21.51
+[2022.08.09-12.21.51:356][280]LogWorld: Bringing up level for play took: 0.000993
+[2022.08.09-12.21.51:356][280]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.09-12.21.51:357][280]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.09-12.21.51:357][280]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.09-12.21.51:357][280]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.09-12.21.51:357][280]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: 0.295
+[2022.08.09-12.21.59:521][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.22.00:525][369]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-12.22.10:574][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.22.10:733][590]LogEditor: Attempting to add actor of class 'ABWeapon' to level at -210.00,-330.00,0.00
+[2022.08.09-12.22.11:046][612]LogEditor: Attempting to add actor of class 'ABWeapon' to level at 230.00,-430.00,0.00
+[2022.08.09-12.22.19:660][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.23.14:730][224]LogSavePackage: Save=21.71ms
+[2022.08.09-12.23.14:730][224]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Step2_Auto3E39E264D433DF85A6123C890C195B92A.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto3.umap'
+[2022.08.09-12.23.14:733][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto3.umap
+[2022.08.09-12.23.14:736][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.048
+[2022.08.09-12.23.14:736][224]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2022.08.09-12.23.36:276][807]LogEditorActor: Deleted Actor: ABWeapon
+[2022.08.09-12.23.36:281][807]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.08.09-12.30.06:284][131]LogHotReload: New module detected: UE4Editor-ArenaBattle-5204.dll
+[2022.08.09-12.30.07:295][135]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-12.30.07:635][135]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-12.30.07:758][135]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-12.30.07:838][135]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 7 classes and 2 folders.
+[2022.08.09-12.30.07:840][135]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.30.07:869][135]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2461 classes and 564 folders.
+[2022.08.09-12.30.07:873][135]Display: HotReload took  0.6s.
+[2022.08.09-12.30.08:552][138]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-12.30.09:410][236]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.09-12.30.09:423][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-12.30.09:424][236]PIE: New page: PIE 세션: Step2 (2022. 8. 10. 오전 6:30:09)
+[2022.08.09-12.30.09:424][236]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.09-12.30.09:426][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002322s)
+[2022.08.09-12.30.09:427][236]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-12.30.09:427][236]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2022.08.09-12.30.09:427][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003340s)
+[2022.08.09-12.30.09:455][236]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-12.30.09:484][236]LogInit: FAudioDevice initialized.
+[2022.08.09-12.30.09:513][236]LogLoad: Game class is 'ABGameMode'
+[2022.08.09-12.30.09:514][236]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.09-21.30.09
+[2022.08.09-12.30.09:515][236]LogWorld: Bringing up level for play took: 0.000919
+[2022.08.09-12.30.09:515][236]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.09-12.30.09:515][236]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.09-12.30.09:515][236]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.09-12.30.09:516][236]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.09-12.30.09:516][236]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: 0.454
+[2022.08.09-12.30.12:519][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.30.21:990][703]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.23:523][887]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.24:040][949]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.24:599][ 16]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.27:081][314]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.27:598][376]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.28:157][443]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.30:048][670]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.32:023][907]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.32:540][969]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.34:407][193]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.34:924][255]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.35:482][322]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.38:123][639]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.39:940][857]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.40:457][919]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.42:174][125]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.42:691][187]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.43:249][254]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.45:107][477]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.45:624][539]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.46:183][606]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.51:149][202]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.52:941][417]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.53:457][479]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.55:499][724]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.56:016][786]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.56:575][853]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.30.59:275][177]ArenaBattle: Warning: AABCharacter::AttackCheck(363) Hit Actor Name : ABCharacter_2
+[2022.08.09-12.30.59:275][177]ArenaBattle: Warning: AABCharacter::TakeDamage(181) Actor : ABCharacter_2 took Damage : 50.000000
+[2022.08.09-12.30.59:607][217]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d79c5ec5138b0457504ab9574f3b7cba>::operator ()(164) OnNextAttackCheck
+[2022.08.09-12.31.14:335][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.31.16:520][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.31.38:276][834]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ArenaBattle Win64 Development -editorrecompile "C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/ArenaBattle.uproject" -invalidatemakefilesonly
+[2022.08.09-12.31.38:485][834]Invalidating makefiles only in this run.
+[2022.08.09-12.31.38:595][834]LogVSAccessor: Warning: Couldn't save all documents
+[2022.08.09-12.31.38:599][834]Candidate modules for hot reload:
+[2022.08.09-12.31.38:599][834]  ArenaBattle
+[2022.08.09-12.31.38:600][834]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ArenaBattle -ModuleWithSuffix=ArenaBattle,2612 Win64 Development -editorrecompile -canskiplink "C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/ArenaBattle.uproject" ]
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: New page: 컴파일 - 2022. 8. 10. 오전 6:31:53
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Creating makefile for hot reloading ArenaBattle (no existing makefile)
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Compiling game modules for hot reload
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2022.08.09-12.31.53:424][834]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\ArenaBattle.uproject" "C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.704854 seconds
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Performing 5 actions (12 in parallel)
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: ABItemBox.gen.cpp
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: ArenaBattle.init.gen.cpp
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: ABItemBox.cpp
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: [4/5] Link UE4Editor-ArenaBattle-2612.dll
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: [5/5] Link UE4Editor-ArenaBattle-2612.lib
+[2022.08.09-12.31.53:424][834]CompilerResultsLog:    C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-2612.lib ???̺귯?? ?? C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-2612.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.08.09-12.31.53:424][834]CompilerResultsLog:    C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-2612.suppressed.lib ???̺귯?? ?? C:\Users\ksol9\Documents\GitHub\UE4_Tutorial\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-2612.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.08.09-12.31.53:424][834]CompilerResultsLog: Total build time: 14.68 seconds (Local executor: 1.38 seconds)
+[2022.08.09-12.31.53:424][834]LogMainFrame: MainFrame: Module compiling took 14.828 seconds
+[2022.08.09-12.31.53:805][834]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.09-12.31.53:808][834]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-12.31.53:927][834]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-12.31.54:007][834]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 8 classes and 2 folders.
+[2022.08.09-12.31.54:008][834]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.31.54:036][834]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2462 classes and 564 folders.
+[2022.08.09-12.31.54:036][834]Display: HotReload took 15.4s.
+[2022.08.09-12.31.54:037][834]Warning: HotReload operation took 15.4s.
+[2022.08.09-12.31.54:188][834]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Source/ArenaBattle/ABItemBox.cpp'
+[2022.08.09-12.31.54:199][834]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2022.08.09-12.31.54:208][834]LogHotReload: New module detected: UE4Editor-ArenaBattle-2612.dll
+[2022.08.09-12.31.54:225][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.31.54:240][835]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-12.31.54:267][835]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 8 classes and 2 folders.
+[2022.08.09-12.31.54:269][835]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.31.54:286][835]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2462 classes and 564 folders.
+[2022.08.09-12.31.54:288][835]Display: HotReload took  0.0s.
+[2022.08.09-12.32.52:765][ 27]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-12.33.09:951][ 39]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2022.08.09-12.33.20:279][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.34.21:635][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.34.23:052][785]LogSavePackage: Save=19.43ms
+[2022.08.09-12.34.23:052][785]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Step2_Auto4A2935F124F0F3DB5466B44B30348A276.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto4.umap'
+[2022.08.09-12.34.23:055][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto4.umap
+[2022.08.09-12.34.23:057][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.040
+[2022.08.09-12.34.23:057][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2022.08.09-12.34.28:597][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.34.55:506][672]LogStaticMesh: SM_Env_Breakables_Box1 스태틱 메시 빌드중...
+[2022.08.09-12.34.55:512][672]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1
+[2022.08.09-12.35.02:106][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.43.44:727][993]LogSavePackage: Save=10.62ms
+[2022.08.09-12.43.44:727][993]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SM_Env_Breakables_Box1449AB06F480A3E52894F16894D2A22FC.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.uasset'
+[2022.08.09-12.43.44:731][993]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.uasset
+[2022.08.09-12.43.45:726][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.43.45:801][119]LogSlate: Window 'SM_Env_Breakables_Box1' being destroyed
+[2022.08.09-12.43.45:804][119]LogSlate: Window 'SM_Env_Breakables_Box1' being destroyed
+[2022.08.09-12.43.47:216][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.50.26:792][700]LogHotReload: New module detected: UE4Editor-ArenaBattle-3829.dll
+[2022.08.09-12.50.27:802][704]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-12.50.28:189][704]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.09-12.50.28:193][704]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-12.50.28:313][704]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2022.08.09-12.50.28:352][704]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-12.50.28:433][704]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 8 classes and 2 folders.
+[2022.08.09-12.50.28:435][704]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.08.09-12.50.28:463][704]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2462 classes and 564 folders.
+[2022.08.09-12.50.28:466][704]Display: HotReload took  0.7s.
+[2022.08.09-12.50.33:126][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.50.33:277][123]LogActorFactory: Actor Factory created SM_Env_Breakables_Box1
+[2022.08.09-12.50.34:437][259]LogActorFactory: Actor Factory created SM_Env_Breakables_Box1
+[2022.08.09-12.51.14:324][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.51.15:242][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-12.51.15:249][ 90]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.08.09-12.51.19:905][648]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-12.51.21:351][820]LogEditor: Attempting to add actor of class 'ABItemBox' to level at 470.00,-470.00,0.00
+[2022.08.09-12.51.22:106][907]LogEditor: Attempting to add actor of class 'ABItemBox' to level at 610.00,-510.00,0.00
+[2022.08.09-12.51.30:703][933]Cmd: DELETE
+[2022.08.09-12.51.30:703][933]Cmd: ACTOR DELETE
+[2022.08.09-12.51.30:716][933]LogEditorActor: Deleted Actor: ABItemBox
+[2022.08.09-12.51.30:721][933]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.08.09-12.51.32:430][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.51.32:552][152]LogEditor: Attempting to add actor of class 'ABItemBox' to level at 90.00,-550.00,0.00
+[2022.08.09-12.51.33:186][224]LogEditor: Attempting to add actor of class 'ABItemBox' to level at 530.00,-490.00,0.00
+[2022.08.09-12.52.03:693][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-12.52.03:819][875]LogSavePackage: Save=20.22ms
+[2022.08.09-12.52.03:819][875]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Step23A2085824AF053187C0C579D5DB0568D.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2022.08.09-12.52.03:823][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2.umap
+[2022.08.09-12.52.03:843][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2_BuiltData" FILE="../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2_BuiltData.uasset" SILENT=true
+[2022.08.09-12.52.03:864][875]LogSavePackage: Save=10.34ms
+[2022.08.09-12.52.03:864][875]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Step2_BuiltDataF578FEFB43D9D217A2BC0398C01DF605.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2_BuiltData.uasset'
+[2022.08.09-12.52.03:866][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2_BuiltData.uasset
+[2022.08.09-12.52.05:742][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.52.06:093][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.52.06:105][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-12.52.08:300][358]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.09-12.52.09:028][359]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ArenaBattle
+[2022.08.09-12.52.09:028][359]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2022.08.09-12.52.09:028][359]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2022.08.09-12.52.09:028][359]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2022.08.09-12.52.09:028][359]LogTemp: BranchPath = DESKTOP-R2S8HD4/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-R2S8HD4/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2022.08.09-12.52.09:091][360]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ksol9\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2022.08.09-12.52.31:663][735]LogSlate: Window '새 채널' being destroyed
+[2022.08.09-12.52.31:668][735]LogCollisionProfile: Warning: ProfileRedirect (ABCharacer : ABCharater) - New Name ('ABCharater') isn't found 
+[2022.08.09-12.52.34:542][907]LogSlate: Window '채널 편집' being destroyed
+[2022.08.09-12.52.34:546][907]LogCollisionProfile: Warning: ProfileRedirect (ABCharacer : ABCharater) - New Name ('ABCharater') isn't found 
+[2022.08.09-12.54.03:732][  1]LogSlate: Window '새 프로파일' being destroyed
+[2022.08.09-12.54.03:736][  1]LogCollisionProfile: Warning: ProfileRedirect (ABCharacer : ABCharater) - New Name ('ABCharater') isn't found 
+[2022.08.09-12.55.23:763][412]LogSlate: Window '프로파일 편집' being destroyed
+[2022.08.09-12.55.23:767][412]LogCollisionProfile: Warning: ProfileRedirect (ABCharacer : ABCharater) - New Name ('ABCharater') isn't found 
+[2022.08.09-12.57.05:295][583]LogSlate: Window '프로젝트 세팅' being destroyed
+[2022.08.09-12.57.05:299][583]LogSlate: Window '프로젝트 세팅' being destroyed
+[2022.08.09-13.07.37:275][901]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.09-13.07.37:288][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-13.07.37:288][901]PIE: New page: PIE 세션: Step2 (2022. 8. 10. 오전 7:07:37)
+[2022.08.09-13.07.37:288][901]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.09-13.07.37:291][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002556s)
+[2022.08.09-13.07.37:292][901]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-13.07.37:292][901]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2022.08.09-13.07.37:292][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003932s)
+[2022.08.09-13.07.37:322][901]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-13.07.37:353][901]LogInit: FAudioDevice initialized.
+[2022.08.09-13.07.37:387][901]LogLoad: Game class is 'ABGameMode'
+[2022.08.09-13.07.37:389][901]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.09-22.07.37
+[2022.08.09-13.07.37:391][901]LogWorld: Bringing up level for play took: 0.003963
+[2022.08.09-13.07.37:391][901]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.09-13.07.37:391][901]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.09-13.07.37:392][901]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.09-13.07.37:392][901]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.09-13.07.37:392][901]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: 0.331
+[2022.08.09-13.08.00:305][338]LogHotReload: New module detected: UE4Editor-ArenaBattle-9463.dll
+[2022.08.09-13.08.01:315][342]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.09-13.08.01:641][342]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.09-13.08.01:641][342]LogClass: Function OnCharacterOverlap is new.
+[2022.08.09-13.08.01:645][342]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.09-13.08.01:770][342]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2022.08.09-13.08.01:890][342]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.09-13.08.01:972][342]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 8 classes and 2 folders.
+[2022.08.09-13.08.01:973][342]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.08.09-13.08.02:003][342]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2462 classes and 564 folders.
+[2022.08.09-13.08.02:006][342]Display: HotReload took  0.7s.
+[2022.08.09-13.08.04:990][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-13.08.05:057][435]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.09-13.08.05:070][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-13.08.05:070][435]PIE: New page: PIE 세션: Step2 (2022. 8. 10. 오전 7:08:05)
+[2022.08.09-13.08.05:070][435]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.09-13.08.05:072][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002025s)
+[2022.08.09-13.08.05:072][435]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-13.08.05:073][435]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2022.08.09-13.08.05:073][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002928s)
+[2022.08.09-13.08.05:101][435]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-13.08.05:131][435]LogInit: FAudioDevice initialized.
+[2022.08.09-13.08.05:164][435]LogLoad: Game class is 'ABGameMode'
+[2022.08.09-13.08.05:165][435]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.09-22.08.05
+[2022.08.09-13.08.05:165][435]LogWorld: Bringing up level for play took: 0.000963
+[2022.08.09-13.08.05:165][435]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.09-13.08.05:165][435]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.09-13.08.05:166][435]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.09-13.08.05:166][435]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.09-13.08.05:166][435]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: 0.104
+[2022.08.09-13.08.08:319][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.09-13.08.09:201][915]LogSlate: Took 0.007295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.09-13.08.09:277][915]LogSlate: Took 0.038671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.08.09-13.08.09:348][915]LogSlate: Took 0.035218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.09-13.08.09:350][915]LogSlate: Took 0.001765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.08.09-13.08.09:393][915]LogSlate: Took 0.041851 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.08.09-13.08.26:718][984]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.09-13.08.26:731][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-13.08.26:731][984]PIE: New page: PIE 세션: Step2 (2022. 8. 10. 오전 7:08:26)
+[2022.08.09-13.08.26:732][984]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.09-13.08.26:734][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002266s)
+[2022.08.09-13.08.26:735][984]LogAIModule: Creating AISystem for world Step2
+[2022.08.09-13.08.26:735][984]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.08.09-13.08.26:735][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003515s)
+[2022.08.09-13.08.26:763][984]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.09-13.08.26:792][984]LogInit: FAudioDevice initialized.
+[2022.08.09-13.08.26:827][984]LogLoad: Game class is 'ABGameMode'
+[2022.08.09-13.08.26:828][984]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.09-22.08.26
+[2022.08.09-13.08.26:829][984]LogWorld: Bringing up level for play took: 0.001129
+[2022.08.09-13.08.26:829][984]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.09-13.08.26:829][984]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.09-13.08.26:830][984]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.09-13.08.26:830][984]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.09-13.08.26:831][984]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: -0.232
+[2022.08.09-13.08.31:131][497]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.33:578][791]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.34:962][957]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.36:287][116]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.38:279][355]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.39:170][462]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.40:545][627]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.41:279][715]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.41:995][801]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.43:145][939]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.43:862][ 25]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.45:245][191]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.46:929][393]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(52)
+[2022.08.09-13.08.51:738][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.09-13.09.03:673][396]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.09-13.09.09:412][ 76]LogSavePackage: Save=20.12ms
+[2022.08.09-13.09.09:412][ 76]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Step261A65FED48918C1DAAE4B8A6EB84409A.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2022.08.09-13.09.09:414][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2.umap
+[2022.08.09-13.09.09:434][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2_BuiltData" FILE="../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2_BuiltData.uasset" SILENT=true
+[2022.08.09-13.09.09:453][ 76]LogSavePackage: Save=7.40ms
+[2022.08.09-13.09.09:453][ 76]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Step2_BuiltDataB094EF684B9CCBFB09360EA08282CFCF.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2_BuiltData.uasset'
+[2022.08.09-13.09.09:455][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Book/Maps/Step2_BuiltData.uasset
+[2022.08.09-13.09.13:200][192]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.08.09-13.09.13:230][192]LogSavePackage: Save=6.04ms
+[2022.08.09-13.09.13:230][192]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_CharM_Cardboard185DB4C74C55D2B5A2D9BC81A82F3085.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.uasset'
+[2022.08.09-13.09.13:235][192]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.uasset
+[2022.08.09-13.09.13:253][192]LogSavePackage: Save=4.38ms
+[2022.08.09-13.09.13:253][192]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/SK_Mannequin_Skeleton55C491474ABC091252E3BA9316FCE147.tmp' to '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2022.08.09-13.09.13:256][192]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2022.08.09-13.09.13:307][192]LogSlate: Window 'ArenaBattle - 언리얼 에디터' being destroyed
+[2022.08.09-13.09.13:477][193]Cmd: QUIT_EDITOR
+[2022.08.09-13.09.13:830][193]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2022.08.09-13.09.13:838][193]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.08.09-13.09.13:839][193]LogExit: Preparing to exit.
+[2022.08.09-13.09.14:596][193]LogDirectoryWatcher: A directory notification for 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/' was aborted.
+[2022.08.09-13.09.14:607][193]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020c9370bb38, Size=20
+[2022.08.09-13.09.14:609][193]LogExit: Editor shut down
+[2022.08.09-13.09.14:616][193]LogExit: Transaction tracking system shut down
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../../../../../Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2022.08.09-13.09.14:772][193]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2022.08.09-13.09.14:816][193]LogExit: Object subsystem successfully closed.
+[2022.08.09-13.09.14:836][193]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.09-13.09.14:839][193]LogD3D11RHI: Shutdown
+[2022.08.09-13.09.14:839][193]LogD3D11RHI: CleanupD3DDevice
+[2022.08.09-13.09.14:842][193]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module ArenaBattle (597)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (596)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (593)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (585)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (582)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module PinnedCommandList (580)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module SkeletonEditor (578)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2022.08.09-13.09.14:868][193]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2022.08.09-13.09.14:869][193]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2022.08.09-13.09.14:869][193]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2022.08.09-13.09.14:869][193]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2022.08.09-13.09.14:870][193]LogDirectoryWatcher: A directory notification for 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Collections/' was aborted.
+[2022.08.09-13.09.14:870][193]LogDirectoryWatcher: A directory notification for 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Content/Developers/ksol9/Collections/' was aborted.
+[2022.08.09-13.09.14:870][193]LogDirectoryWatcher: A directory notification for 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Saved/Collections/' was aborted.
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2022.08.09-13.09.14:870][193]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2022.08.09-13.09.14:871][193]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2022.08.09-13.09.14:873][193]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2022.08.09-13.09.15:798][193]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2022.08.09-13.09.15:799][193]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2022.08.09-13.09.15:842][193]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2022.08.09-13.09.15:843][193]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2022.08.09-13.09.15:844][193]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2022.08.09-13.09.15:844][193]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2022.08.09-13.09.15:844][193]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2022.08.09-13.09.15:932][193]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2022.08.09-13.09.15:935][193]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2022.08.09-13.09.16:036][193]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2022.08.09-13.09.16:137][193]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2022.08.09-13.09.16:137][193]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2022.08.09-13.09.16:137][193]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2022.08.09-13.09.16:137][193]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2022.08.09-13.09.16:137][193]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2022.08.09-13.09.16:137][193]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2022.08.09-13.09.16:138][193]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2022.08.09-13.09.16:138][193]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2022.08.09-13.09.16:138][193]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2022.08.09-13.09.16:138][193]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2022.08.09-13.09.16:138][193]LogDirectoryWatcher: A directory notification for 'C:/Users/ksol9/Documents/GitHub/UE4_Tutorial/ArenaBattle/Binaries/Win64' was aborted.
+[2022.08.09-13.09.16:138][193]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2022.08.09-13.09.16:139][193]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2022.08.09-13.09.16:139][193]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2022.08.09-13.09.16:139][193]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2022.08.09-13.09.16:139][193]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2022.08.09-13.09.16:527][193]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2022.08.09-13.09.16:527][193]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2022.08.09-13.09.16:527][193]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2022.08.09-13.09.16:528][193]LogModuleManager: Shutting down and abandoning module Media (233)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2022.08.09-13.09.16:534][193]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module Core (178)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2022.08.09-13.09.16:536][193]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2022.08.09-13.09.16:539][193]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2022.08.09-13.09.16:607][193]LogDerivedDataCache: Shutdown
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2022.08.09-13.09.16:607][193]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2022.08.09-13.09.16:608][193]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2022.08.09-13.09.16:608][193]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.08.09-13.09.16:608][193]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEE8CD190-4A90-9EF5-5BFB-D0B0BDE1FA0A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=29e2619b417d151ffe44998aab753686%7C22a49075c2d242b0aa5d84fd74c012ef%7C847ee009-ee3c-4b4b-94c5-69c21520e95d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.08.09-13.09.16:611][193]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2022.08.09-13.09.16:612][193]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.08.09-13.09.16:614][193]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.08.09-13.09.16:614][193]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.08.09-13.09.16:614][193]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.08.09-13.09.16:614][193]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.08.09-13.09.16:614][193]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.08.09-13.09.16:614][193]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.08.09-13.09.16:619][193]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.08.09-13.09.16:620][193]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.08.09-13.09.16:620][193]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.08.09-13.09.16:620][193]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.08.09-13.09.16:620][193]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.08.09-13.09.16:629][193]LogExit: Exiting.
+[2022.08.09-13.09.16:639][193]Log file closed, 08/09/22 22:09:16

@@ -1,0 +1,810 @@
+﻿Log file open, 08/08/22 17:49:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArenaBattle
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-248767459) SRandInit(-248767459).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.706047
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.131s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Binaries/Win64/UE4Editor-ArenaBattle.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-R2S8HD4 (192.168.0.7:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.08.08-08.49.31:092][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.08-08.49.31:092][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.08-08.49.31:101][  0]LogInit: Computer: DESKTOP-R2S8HD4
+[2022.08.08-08.49.31:101][  0]LogInit: User: ksol9
+[2022.08.08-08.49.31:101][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.08-08.49.31:101][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.08-08.49.31:101][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.08-08.49.31:101][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.08-08.49.31:101][  0]LogMemory: Process Physical Memory: 277.72 MB used, 277.72 MB peak
+[2022.08.08-08.49.31:101][  0]LogMemory: Process Virtual Memory: 272.47 MB used, 272.47 MB peak
+[2022.08.08-08.49.31:101][  0]LogMemory: Physical Memory: 6302.37 MB used,  9989.89 MB free, 16292.26 MB total
+[2022.08.08-08.49.31:101][  0]LogMemory: Virtual Memory: 4813.26 MB used,  9989.89 MB free, 134217728.00 MB total
+[2022.08.08-08.49.31:140][  0]LogInit: Using OS detected language (ko-KR).
+[2022.08.08-08.49.31:140][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.08.08-08.49.31:143][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.08.08-08.49.31:457][  0]LogStreaming: Display: Took  0.317s to EndInitTextLocalization.
+[2022.08.08-08.49.31:457][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.08-08.49.31:497][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.08-08.49.31:497][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.08-08.49.31:713][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.08-08.49.31:797][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2022.08.08-08.49.31:797][  0]LogD3D11RHI:       2988/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.08-08.49.31:799][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.08-08.49.31:799][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.08-08.49.31:799][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.08.08-08.49.31:803][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.08-08.49.31:803][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.08-08.49.31:803][  0]LogWindows: EnumDisplayDevices:
+[2022.08.08-08.49.31:804][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2022.08.08-08.49.31:804][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.08.08-08.49.31:804][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.08.08-08.49.31:804][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.08.08-08.49.31:804][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.08.08-08.49.31:804][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2022.08.08-08.49.31:804][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.08.08-08.49.31:804][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.08.08-08.49.31:804][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2022.08.08-08.49.31:871][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.08-08.49.31:872][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.08-08.49.31:872][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.08-08.49.31:883][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.08-08.49.31:885][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Intermediate/Shaders/WorkingDirectory/14428/).
+[2022.08.08-08.49.31:885][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ksol9/AppData/Local/Temp/UnrealShaderWorkingDir/F111642A4AB7A3814509D081573535C5/'.
+[2022.08.08-08.49.32:075][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.08.08-08.49.32:090][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.08.08-08.49.32:104][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.08.08-08.49.32:118][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.08.08-08.49.32:133][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.08.08-08.49.32:146][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.08.08-08.49.32:161][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.08.08-08.49.32:175][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.08.08-08.49.32:183][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.08.08-08.49.32:195][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2022.08.08-08.49.32:207][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2022.08.08-08.49.32:219][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2022.08.08-08.49.32:231][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2022.08.08-08.49.32:243][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2022.08.08-08.49.32:255][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2022.08.08-08.49.32:279][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2022.08.08-08.49.32:279][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2022.08.08-08.49.32:292][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.08.08-08.49.32:294][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.08.08-08.49.32:331][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.08.08-08.49.32:342][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.08.08-08.49.32:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.08.08-08.49.32:366][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.08.08-08.49.32:378][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.08.08-08.49.32:390][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.08.08-08.49.32:390][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.08-08.49.32:524][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.08-08.49.32:524][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.08-08.49.32:524][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.08-08.49.33:276][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.08-08.49.33:324][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/ksol9/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2022.08.08-08.49.33:324][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ksol9/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2022.08.08-08.49.33:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.08-08.49.33:324][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.08-08.49.33:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.08-08.49.33:324][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.08-08.49.33:340][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.08-08.49.33:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ksol9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.08-08.49.33:352][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.08-08.49.33:352][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.08-08.49.33:361][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.08.08-08.49.33:361][  0]LogSlate: Using Freetype 2.6.0
+[2022.08.08-08.49.33:362][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.08-08.49.33:362][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.08-08.49.33:501][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2022.08.08-08.49.33:770][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.08-08.49.33:910][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.08.08-08.49.33:913][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.08.08-08.49.33:913][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.08-08.49.33:913][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.08.08-08.49.33:913][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.08.08-08.49.33:913][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.08.08-08.49.33:944][  0]LogNetVersion: ArenaBattle , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3555152549)
+[2022.08.08-08.49.34:300][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.066600 seconds
+[2022.08.08-08.49.34:304][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2022.08.08-08.49.34:304][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2022.08.08-08.49.34:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.08-08.49.35:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.08-08.49.35:760][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.08-08.49.36:057][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.246500ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+[2022.08.08-08.49.36:061][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7c3fd5e78, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.49.36:062][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7c3fd5e78, Size=4
+[2022.08.08-08.49.36:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7c3fd5e78, Size=4, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_0:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.49.36:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7c3fd5de0, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.49.36:064][  0]LogUObjectGlobals: Warning: 'Class /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint' 오브젝트를 찾는 데 실패했습니다.
+[2022.08.08-08.49.36:064][  0]Error: CDO Constructor (ABPawn): Failed to find /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint
+
+[2022.08.08-08.49.36:090][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2022.08.08-08.49.36:090][  0]LogUObjectBase: Warning: Error: CDO Constructor (ABPawn): Failed to find /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint
+
+[2022.08.08-08.49.40:445][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.08-08.49.40:445][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.08-08.49.40:466][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.08-08.49.40:487][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.08-08.49.41:037][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.08-08.49.41:246][  0]LogOcInput: OculusInput pre-init called
+[2022.08.08-08.49.41:354][  0]LogEngine: Initializing Engine...
+[2022.08.08-08.49.41:356][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.08-08.49.41:357][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.08.08-08.49.41:357][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.08.08-08.49.41:510][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.08-08.49.41:538][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.08-08.49.41:570][  0]LogInit: FAudioDevice initialized.
+[2022.08.08-08.49.41:614][  0]LogDerivedDataCache: Saved boot cache 0.04s 75MB C:/Users/ksol9/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2022.08.08-08.49.41:624][  0]LogInit: Texture streaming: Enabled
+[2022.08.08-08.49.41:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.08-08.49.41:658][  0]LogInit: Transaction tracking system initialized
+[2022.08.08-08.49.41:686][  0]BlueprintLog: New page: 에디터 로드
+[2022.08.08-08.49.41:776][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.08.08-08.49.41:883][  0]LogConsoleResponse: Display: 
+[2022.08.08-08.49.41:988][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.08.08-08.49.41:988][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.08-08.49.41:988][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.08.08-08.49.41:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.08.08-08.49.41:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.08.08-08.49.42:398][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/' took 0.02s
+[2022.08.08-08.49.42:398][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2022.08.08-08.49.42:398][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.08-08.49.42:398][  0]LightingResults: New page: 라이팅 빌드
+[2022.08.08-08.49.42:402][  0]MapCheck: New page: 맵 체크
+[2022.08.08-08.49.42:402][  0]LightingResults: New page: 라이팅 빌드
+[2022.08.08-08.49.42:411][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7c3fd5e78, Size=4
+[2022.08.08-08.49.42:442][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7b2489000, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2022.08.08-08.49.42:449][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7b2489000, Size=64
+[2022.08.08-08.49.42:449][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7acd5fac0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_1:ExecuteUbergraph_ThirdPerson_AnimBP
+[2022.08.08-08.49.42:455][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7acd22b60, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2022.08.08-08.49.42:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7accd4b80, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2022.08.08-08.49.42:487][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7accd4b80, Size=296
+[2022.08.08-08.49.42:487][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7a9bc3d80, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_5:ExecuteUbergraph_ThirdPersonCharacter
+[2022.08.08-08.49.42:491][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7a9bc3100, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2022.08.08-08.49.42:644][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.716400ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.08.08-08.49.42:714][  0]LogAIModule: Creating AISystem for world Step2
+[2022.08.08-08.49.42:720][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.08-08.49.42:726][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7acd5fac0, Size=64
+[2022.08.08-08.49.42:726][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7a9bc3d80, Size=296
+[2022.08.08-08.49.42:727][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.08-08.49.42:803][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 75.724ms.
+[2022.08.08-08.49.42:803][  0]LogFileHelpers: Loading map 'Step2' took 0.404
+[2022.08.08-08.49.42:914][  0]LogCollectionManager: Loaded 0 collections in 0.002219 seconds
+[2022.08.08-08.49.42:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Collections/' took 0.01s
+[2022.08.08-08.49.42:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Developers/ksol9/Collections/' took 0.01s
+[2022.08.08-08.49.42:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Collections/' took 0.01s
+[2022.08.08-08.49.42:955][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.08.08-08.49.42:964][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2457 classes and 560 folders.
+[2022.08.08-08.49.42:971][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.08.08-08.49.43:020][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.08.08-08.49.43:027][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2022.08.08-08.49.43:086][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.08-08.49.43:089][  0]LogSlate: Took 0.002037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.08.08-08.49.43:091][  0]LogSlate: Took 0.002075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.08.08-08.49.43:092][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.08-08.49.43:096][  0]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.08-08.49.43:166][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2022.08.08-08.49.43:202][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.08-08.49.43:275][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.08.08-08.49.43:275][  0]LogLoad: (Engine Initialization) Total time: 16.11 seconds
+[2022.08.08-08.49.43:275][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.08-08.49.43:288][  0]ArenaBattle: Warning: AFountain::PostInitializeComponents(78)
+[2022.08.08-08.49.43:296][  0]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.08-08.49.43:316][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.08-08.49.43:368][  1]LogAssetRegistry: Asset discovery search completed in 9.8901 seconds
+[2022.08.08-08.49.43:370][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.08.08-08.49.43:370][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2022.08.08-08.50.26:635][274]LogHotReload: New module detected: UE4Editor-ArenaBattle-9413.dll
+[2022.08.08-08.50.27:315][277]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.08-08.50.27:321][277]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.08-08.50.27:719][277]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.08-08.50.27:809][277]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 5 classes and 2 folders.
+[2022.08.08-08.50.27:810][277]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-08.50.27:996][277]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2458 classes and 562 folders.
+[2022.08.08-08.50.28:002][277]Display: HotReload took  0.7s.
+[2022.08.08-08.50.34:905][715]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.08-08.50.35:691][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.08-08.50.40:506][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.08-08.50.40:530][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.08-08.50.40:545][383]LogSlate: Took 0.005669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.08-08.51.21:519][254]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ArenaBattle Win64 Development -editorrecompile "C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/ArenaBattle.uproject" -invalidatemakefilesonly
+[2022.08.08-08.51.21:727][254]Invalidating makefiles only in this run.
+[2022.08.08-08.51.22:032][254]Candidate modules for hot reload:
+[2022.08.08-08.51.22:032][254]  ArenaBattle
+[2022.08.08-08.51.22:032][254]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ArenaBattle -ModuleWithSuffix=ArenaBattle,1697 Win64 Development -editorrecompile -canskiplink "C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/ArenaBattle.uproject" ]
+[2022.08.08-08.51.37:541][254]CompilerResultsLog: New page: 컴파일 - 2022. 8. 9. 오전 2:51:37
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: Creating makefile for hot reloading ArenaBattle (no existing makefile)
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: Compiling game modules for hot reload
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2022.08.08-08.51.37:542][254]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ksol9\Documents\Unreal Projects\ArenaBattle\ArenaBattle.uproject" "C:\Users\ksol9\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 7.1654585 seconds
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: Performing 5 actions (12 in parallel)
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: ArenaBattle.init.gen.cpp
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: ABAnimInstance.gen.cpp
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: ABAnimInstance.cpp
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: [4/5] Link UE4Editor-ArenaBattle-1697.dll
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: [5/5] Link UE4Editor-ArenaBattle-1697.lib
+[2022.08.08-08.51.37:542][254]CompilerResultsLog:    C:\Users\ksol9\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1697.lib ???̺귯?? ?? C:\Users\ksol9\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1697.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.08.08-08.51.37:542][254]CompilerResultsLog:    C:\Users\ksol9\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1697.suppressed.lib ???̺귯?? ?? C:\Users\ksol9\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1697.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.08.08-08.51.37:542][254]CompilerResultsLog: Total build time: 15.36 seconds (Local executor: 1.48 seconds)
+[2022.08.08-08.51.37:542][254]LogMainFrame: MainFrame: Module compiling took 15.514 seconds
+[2022.08.08-08.51.37:930][254]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.08-08.51.37:936][254]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.08-08.51.38:021][254]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0007 seconds. Added 6 classes and 2 folders.
+[2022.08.08-08.51.38:023][254]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-08.51.38:055][254]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2459 classes and 562 folders.
+[2022.08.08-08.51.38:055][254]Display: HotReload took 16.2s.
+[2022.08.08-08.51.38:056][254]Warning: HotReload operation took 16.2s.
+[2022.08.08-08.51.38:189][254]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ksol9/Documents/Unreal Projects/ArenaBattle/Source/ArenaBattle/ABAnimInstance.h'
+[2022.08.08-08.51.38:302][254]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2022.08.08-08.51.38:305][254]LogHotReload: New module detected: UE4Editor-ArenaBattle-1697.dll
+[2022.08.08-08.51.38:320][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.08-08.51.38:337][255]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.08-08.51.38:364][255]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 6 classes and 2 folders.
+[2022.08.08-08.51.38:365][255]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-08.51.38:381][255]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2459 classes and 562 folders.
+[2022.08.08-08.51.38:384][255]Display: HotReload took  0.0s.
+[2022.08.08-08.51.38:407][256]ArenaBattle: Warning: AABPawn::PostInitializeComponents(66)
+[2022.08.08-08.55.03:322][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-08.55.05:688][548]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2022.08.08-08.55.06:017][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-08.55.06:029][548]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2022.08.08-08.55.06:318][548]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2022.08.08-08.55.06:543][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80ee086f8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2022.08.08-08.55.06:543][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80ee086c0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2022.08.08-08.55.07:192][548]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2022.08.08-08.55.07:252][548]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-08.55.11:488][ 43]LogSlate: Took 0.005247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.08-08.55.19:189][965]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.08-08.55.21:482][236]LogBlueprint: Warning: Reparenting blueprint AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint from AnimInstance to ABAnimInstance...
+[2022.08.08-08.55.21:488][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8239e1490, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.21:490][236]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-08.55.21:491][236]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8239e1490, Size=4
+[2022.08.08-08.55.21:491][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8239e1490, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_3:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.21:492][236]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7c3fd5de0, Size=4
+[2022.08.08-08.55.21:492][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8239e1438, Size=4, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_4:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.21:492][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8239e13c8, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.21:570][236]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8239e1490, Size=4
+[2022.08.08-08.55.33:763][690]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-08.55.33:765][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8239e13c8, Size=4
+[2022.08.08-08.55.33:765][690]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeeebc0, Size=4, WarriorAnimBlueprint_C_12 Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_6:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.33:765][690]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeef2d0, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.33:838][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8239e1438, Size=4
+[2022.08.08-08.55.35:889][930]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-08.55.35:891][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeef2d0, Size=4
+[2022.08.08-08.55.35:891][930]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeef2d0, Size=4, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_8:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.35:891][930]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeed078, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.55.35:967][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeeebc0, Size=4
+[2022.08.08-08.57.25:218][ 20]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-08.57.25:219][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeed078, Size=4
+[2022.08.08-08.57.25:220][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeed078, Size=4, WarriorAnimBlueprint_C_21 Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_10:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.57.25:220][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeee088, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.57.25:294][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeef2d0, Size=4
+[2022.08.08-08.57.46:793][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeede70, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.01:740][351]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeede70, Size=4
+[2022.08.08-08.58.01:740][351]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeede70, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_12:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.01:741][351]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeec448, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.03:207][525]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeec448, Size=4
+[2022.08.08-08.58.03:207][525]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeec448, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_13:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.03:208][525]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeef1b8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.03:210][525]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeef1b8, Size=4
+[2022.08.08-08.58.03:210][525]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeef1b8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_14:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.03:210][525]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeec668, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.05:559][801]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeec668, Size=4
+[2022.08.08-08.58.05:559][801]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8239e2330, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_15:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.05:560][801]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8239e2378, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.32:886][ 64]LogSlate: Window 'WarriorAnimBlueprint*' being destroyed
+[2022.08.08-08.58.32:890][ 64]LogSlate: Window 'WarriorAnimBlueprint*' being destroyed
+[2022.08.08-08.58.51:828][290]LogHotReload: New module detected: UE4Editor-ArenaBattle-9639.dll
+[2022.08.08-08.58.52:506][293]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.08-08.58.52:522][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeed078, Size=4
+[2022.08.08-08.58.52:523][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8239e2330, Size=4
+[2022.08.08-08.58.52:523][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeef1b8, Size=4
+[2022.08.08-08.58.52:523][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeec448, Size=4
+[2022.08.08-08.58.52:523][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeede70, Size=4
+[2022.08.08-08.58.52:848][293]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.08-08.58.52:855][293]LogHotReload: Re-instancing ABAnimInstance after hot-reload.
+[2022.08.08-08.58.52:856][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8239e2378, Size=4
+[2022.08.08-08.58.52:856][293]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeee120, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_16:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.52:857][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeee088, Size=4
+[2022.08.08-08.58.52:857][293]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeee088, Size=4, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_17:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.52:858][293]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7feeeded8, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-08.58.52:989][293]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.08-08.58.53:120][293]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 6 classes and 2 folders.
+[2022.08.08-08.58.53:122][293]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-08.58.53:147][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeee120, Size=4
+[2022.08.08-08.58.53:147][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeee088, Size=4
+[2022.08.08-08.58.53:330][293]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2460 classes and 564 folders.
+[2022.08.08-08.58.53:333][293]Display: HotReload took  0.8s.
+[2022.08.08-08.58.58:517][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-08.58.58:687][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2022.08.08-08.58.59:199][465]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-09.00.01:917][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.040
+[2022.08.08-09.00.01:920][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2022.08.08-09.00.01:929][949]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2022.08.08-09.00.01:929][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2022.08.08-09.00.01:950][949]LogSavePackage: Save=13.31ms
+[2022.08.08-09.00.01:950][949]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto14B7FCD7A49182812D580C5A270F338E5.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto1.uasset'
+[2022.08.08-09.00.01:952][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto1.uasset
+[2022.08.08-09.00.01:952][949]LogFileHelpers: Auto-saving content packages took 0.034
+[2022.08.08-09.00.04:383][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-09.00.56:755][454]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a671a0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.02.05:232][593]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a671a0, Size=4
+[2022.08.08-09.02.05:232][593]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a671a0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_19:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.02.05:233][593]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a65858, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.08.46:164][608]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-09.08.46:166][608]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a65858, Size=4
+[2022.08.08-09.08.46:166][608]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a65858, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_20:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.08.46:167][608]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7feeeded8, Size=4
+[2022.08.08-09.08.46:167][608]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a67150, Size=4, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_21:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.08.46:169][608]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a67c98, Size=8, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.08.46:269][608]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a65858, Size=4
+[2022.08.08-09.08.46:269][608]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a671a0, Size=4
+[2022.08.08-09.08.46:980][682]LogSavePackage: Save=14.79ms
+[2022.08.08-09.08.46:980][682]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprintC65796914FF63A6579DF01817A8F4C74.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2022.08.08-09.08.46:983][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset
+[2022.08.08-09.09.21:399][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-09.09.59:007][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-09.09.59:099][ 57]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-09.09.59:103][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a67c98, Size=8
+[2022.08.08-09.09.59:103][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a67c98, Size=8, WarriorAnimBlueprint_C_36 Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_23:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.09.59:104][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a67e48, Size=8, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.09.59:179][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a67150, Size=4
+[2022.08.08-09.10.05:839][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.011
+[2022.08.08-09.10.05:840][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2022.08.08-09.10.05:849][833]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2022.08.08-09.10.05:849][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2022.08.08-09.10.05:868][833]LogSavePackage: Save=14.61ms
+[2022.08.08-09.10.05:868][833]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto23601F86040F280B3E8136FBA550475AC.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto2.uasset'
+[2022.08.08-09.10.05:869][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto2.uasset
+[2022.08.08-09.10.05:869][833]LogFileHelpers: Auto-saving content packages took 0.030
+[2022.08.08-09.11.43:952][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-09.11.44:012][599]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-09.11.44:016][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a67e48, Size=8
+[2022.08.08-09.11.44:016][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a67e48, Size=8, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_25:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.11.44:017][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d809a66f30, Size=8, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-09.11.44:583][648]LogSavePackage: Save=14.74ms
+[2022.08.08-09.11.44:583][648]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint263FC33A40C0899643B768BD1C17BA57.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2022.08.08-09.11.44:586][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset
+[2022.08.08-09.11.45:705][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-09.11.45:764][786]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2022.08.08-09.11.45:768][786]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2022.08.08-09.16.38:301][824]LogHotReload: New module detected: UE4Editor-ArenaBattle-8382.dll
+[2022.08.08-09.16.39:312][828]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.08-09.16.39:330][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a67e48, Size=8
+[2022.08.08-09.16.39:720][828]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.08-09.16.39:853][828]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 6 classes and 2 folders.
+[2022.08.08-09.16.39:855][828]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-09.16.40:065][828]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2460 classes and 564 folders.
+[2022.08.08-09.16.40:068][828]Display: HotReload took  0.8s.
+[2022.08.08-09.16.47:554][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-09.16.47:645][386]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.08-09.16.47:661][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-09.16.47:661][386]PIE: New page: PIE 세션: Step2 (2022. 8. 9. 오전 3:16:47)
+[2022.08.08-09.16.47:661][386]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.08-09.16.47:664][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002933s)
+[2022.08.08-09.16.47:665][386]LogAIModule: Creating AISystem for world Step2
+[2022.08.08-09.16.47:665][386]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2022.08.08-09.16.47:665][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003631s)
+[2022.08.08-09.16.47:726][386]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.08-09.16.47:755][386]LogInit: FAudioDevice initialized.
+[2022.08.08-09.16.47:796][386]LogLoad: Game class is 'ABGameMode'
+[2022.08.08-09.16.47:797][386]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.08-18.16.47
+[2022.08.08-09.16.47:800][386]LogWorld: Bringing up level for play took: 0.004034
+[2022.08.08-09.16.47:800][386]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.08-09.16.47:802][386]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.08-09.16.47:833][386]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2022.08.08-09.16.47:833][386]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.08-09.16.47:834][386]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.08-09.16.47:834][386]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: -0.71
+[2022.08.08-10.37.09:087][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-10.39.42:155][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-10.39.42:302][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2022.08.08-10.39.42:762][210]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-10.40.17:208][249]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825340818, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.40.32:195][ 16]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825340818, Size=4
+[2022.08.08-10.40.32:195][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe27bb8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_27:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.40.32:196][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe24a98, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.40.41:125][ 81]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe24a98, Size=4
+[2022.08.08-10.40.41:125][ 81]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe24a98, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_28:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.40.41:127][ 81]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe263d0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.40.41:129][ 81]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe263d0, Size=4
+[2022.08.08-10.40.41:129][ 81]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe263d0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_29:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.40.41:130][ 81]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe24b38, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.41.16:210][203]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-10.41.16:212][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe24b38, Size=4
+[2022.08.08-10.41.16:212][203]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe24b38, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_30:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.41.16:214][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d809a66f30, Size=8
+[2022.08.08-10.41.16:214][203]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe25ef0, Size=8, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_31:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.41.16:215][203]LogBlueprint: Warning: [Compiler WarriorAnimBlueprint] BaseAction  입구 노드가 스테이트에 연결되지 않았습니다.
+[2022.08.08-10.41.16:215][203]LogBlueprint: Warning: [Compiler WarriorAnimBlueprint] BaseAction  에 입구 스테이트 연결이 없습니다.
+[2022.08.08-10.41.16:216][203]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe24858, Size=4, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.41.16:293][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe24b38, Size=4
+[2022.08.08-10.41.16:293][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe263d0, Size=4
+[2022.08.08-10.41.16:293][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe24a98, Size=4
+[2022.08.08-10.41.16:293][203]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe27bb8, Size=4
+[2022.08.08-10.41.16:296][203]LogBlueprint: Warning: [Compiler WarriorAnimBlueprint] [6709.13] WarriorAnimBlueprint 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 85 ms] (/Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint)
+[2022.08.08-10.41.30:437][886]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe26888, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.41.43:782][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe26888, Size=4
+[2022.08.08-10.41.43:782][483]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe26888, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_33:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.41.43:783][483]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe25ee8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.42.09:473][557]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe25ee8, Size=4
+[2022.08.08-10.42.09:473][557]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe25ee8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_34:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.42.09:474][557]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d80fe272c0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.42.52:994][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe25ef0, Size=8
+[2022.08.08-10.42.52:994][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe25ee8, Size=4
+[2022.08.08-10.42.52:994][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe26888, Size=4
+[2022.08.08-10.42.52:995][690]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.012
+[2022.08.08-10.42.52:996][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2022.08.08-10.42.53:005][690]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2022.08.08-10.42.53:005][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2022.08.08-10.42.53:028][690]LogSavePackage: Save=16.58ms
+[2022.08.08-10.42.53:029][690]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto33F32991C44EC9C0B36127B918B81B771.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto3.uasset'
+[2022.08.08-10.42.53:031][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto3.uasset
+[2022.08.08-10.42.53:031][690]LogFileHelpers: Auto-saving content packages took 0.036
+[2022.08.08-10.43.10:343][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-10.44.05:004][253]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe272c0, Size=4
+[2022.08.08-10.44.05:004][253]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825340128, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_35:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.44.05:006][253]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825342e00, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.44.14:511][358]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-10.44.14:514][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825342e00, Size=4
+[2022.08.08-10.44.14:514][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825342e00, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_36:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.44.14:517][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d80fe24858, Size=4
+[2022.08.08-10.44.14:517][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825342d68, Size=4, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_37:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.44.14:520][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825340950, Size=8, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.44.14:600][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825340128, Size=4
+[2022.08.08-10.44.14:600][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825342e00, Size=4
+[2022.08.08-10.45.18:647][ 64]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2022.08.08-10.45.18:653][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825340950, Size=8
+[2022.08.08-10.45.18:653][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825340950, Size=8, WarriorAnimBlueprint_C_56 Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_39:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.45.18:655][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d825343448, Size=8, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-10.45.18:731][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825342d68, Size=4
+[2022.08.08-10.45.20:646][287]LogSlate: Window 'WarriorAnimBlueprint*' being destroyed
+[2022.08.08-10.45.20:650][287]LogSlate: Window 'WarriorAnimBlueprint*' being destroyed
+[2022.08.08-10.45.23:366][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.08-10.45.24:525][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.08.08-10.45.24:836][733]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.08-10.45.25:626][735]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ArenaBattle
+[2022.08.08-10.45.25:626][735]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2022.08.08-10.45.25:626][735]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2022.08.08-10.45.25:626][735]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2022.08.08-10.45.25:626][735]LogTemp: BranchPath = DESKTOP-R2S8HD4/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-R2S8HD4/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2022.08.08-10.45.25:626][735]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ksol9\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2022.08.08-10.46.04:690][411]LogSlate: Window '프로젝트 세팅' being destroyed
+[2022.08.08-10.46.04:693][411]LogSlate: Window '프로젝트 세팅' being destroyed
+[2022.08.08-10.49.47:002][877]LogHotReload: New module detected: UE4Editor-ArenaBattle-3456.dll
+[2022.08.08-10.49.47:682][880]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.08-10.49.47:709][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825340950, Size=8
+[2022.08.08-10.49.48:112][880]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.08-10.49.48:248][880]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.08-10.49.48:381][880]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 6 classes and 2 folders.
+[2022.08.08-10.49.48:384][880]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-10.49.48:594][880]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2460 classes and 564 folders.
+[2022.08.08-10.49.48:597][880]Display: HotReload took  0.9s.
+[2022.08.08-10.49.50:253][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-10.49.50:320][ 47]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.08.08-10.49.50:331][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.49.50:331][ 47]PIE: New page: PIE 세션: Step2 (2022. 8. 9. 오전 4:49:50)
+[2022.08.08-10.49.50:331][ 47]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2022.08.08-10.49.50:334][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002206s)
+[2022.08.08-10.49.50:334][ 47]LogAIModule: Creating AISystem for world Step2
+[2022.08.08-10.49.50:334][ 47]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2022.08.08-10.49.50:334][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003013s)
+[2022.08.08-10.49.50:393][ 47]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.08.08-10.49.50:421][ 47]LogInit: FAudioDevice initialized.
+[2022.08.08-10.49.50:452][ 47]LogLoad: Game class is 'ABGameMode'
+[2022.08.08-10.49.50:453][ 47]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2022.08.08-19.49.50
+[2022.08.08-10.49.50:453][ 47]LogWorld: Bringing up level for play took: 0.001185
+[2022.08.08-10.49.50:453][ 47]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2022.08.08-10.49.50:454][ 47]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2022.08.08-10.49.50:454][ 47]ArenaBattle: Warning: AABPlayerController::Possess(12)
+[2022.08.08-10.49.50:454][ 47]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2022.08.08-10.49.50:454][ 47]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: -0.089
+[2022.08.08-10.53.24:699][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.009
+[2022.08.08-10.53.24:701][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2022.08.08-10.53.24:717][680]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2022.08.08-10.53.24:717][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2022.08.08-10.53.24:745][680]LogSavePackage: Save=21.50ms
+[2022.08.08-10.53.24:745][680]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto49E16F872499D11B584F88CB9B5BD2D03.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto4.uasset'
+[2022.08.08-10.53.24:746][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto4.uasset
+[2022.08.08-10.53.24:747][680]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.08.08-11.03.27:344][488]LogHotReload: New module detected: UE4Editor-ArenaBattle-7105.dll
+[2022.08.08-11.03.28:021][491]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.08-11.03.28:413][491]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for HotReload, assuming new class
+[2022.08.08-11.03.28:420][491]LogHotReload: Re-instancing ABAnimInstance after hot-reload.
+[2022.08.08-11.03.28:427][491]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d825343448, Size=8
+[2022.08.08-11.03.28:427][491]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7f5564f38, Size=8, Default__WarriorAnimBlueprint_C Function /Engine/Transient.REINST_WarriorAnimBlueprint_C_41:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.03.28:429][491]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d7f5566018, Size=8, Default__WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.03.28:561][491]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2022.08.08-11.03.28:690][491]LogHotReload: Re-instancing ABPawn after hot-reload.
+[2022.08.08-11.03.28:819][491]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 6 classes and 2 folders.
+[2022.08.08-11.03.28:821][491]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.08.08-11.03.28:847][491]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d7f5564f38, Size=8
+[2022.08.08-11.03.29:032][491]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2460 classes and 564 folders.
+[2022.08.08-11.03.29:035][491]Display: HotReload took  1.0s.
+[2022.08.08-11.03.30:392][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.08.08-11.03.30:555][670]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2022.08.08-11.03.31:061][670]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-11.04.06:431][861]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee5fd8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.10:148][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee5fd8, Size=4
+[2022.08.08-11.04.10:149][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee5fd8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_43:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.10:151][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee5cf0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.18:224][242]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee5cf0, Size=4
+[2022.08.08-11.04.18:224][242]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee5cf0, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_44:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.18:228][242]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee4300, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.18:230][242]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee4300, Size=4
+[2022.08.08-11.04.18:230][242]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee4300, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_45:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.18:232][242]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee4540, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.23:978][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee4540, Size=4
+[2022.08.08-11.04.23:978][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee4540, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_46:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.23:980][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee4288, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.23:982][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee4288, Size=4
+[2022.08.08-11.04.23:982][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee4288, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Engine/Transient.REINST_SKEL_WarriorAnimBlueprint_C_47:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.04.23:985][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d83aee5ed8, Size=4, Default__SKEL_WarriorAnimBlueprint_C Function /Game/Book/Animations/WarriorAnimBlueprint.SKEL_WarriorAnimBlueprint_C:ExecuteUbergraph_WarriorAnimBlueprint
+[2022.08.08-11.05.47:185][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee4288, Size=4
+[2022.08.08-11.05.47:185][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee4540, Size=4
+[2022.08.08-11.05.47:185][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee4300, Size=4
+[2022.08.08-11.05.47:185][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee5cf0, Size=4
+[2022.08.08-11.05.47:185][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d83aee5fd8, Size=4
+[2022.08.08-11.05.47:205][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.039
+[2022.08.08-11.05.47:207][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2022.08.08-11.05.47:223][929]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2022.08.08-11.05.47:223][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2022.08.08-11.05.47:255][929]LogSavePackage: Save=24.39ms
+[2022.08.08-11.05.47:255][929]LogSavePackage: Moving '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto5E0F9C46A422BBFA5548C6B8FAB4F5B2A.tmp' to '../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto5.uasset'
+[2022.08.08-11.05.47:256][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ksol9/Documents/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto5.uasset
+[2022.08.08-11.05.47:256][929]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.08.08-11.09.25:138][361]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2022.08.08-11.09.40:351][361]LogWindows: Error: === Critical error: ===
+[2022.08.08-11.09.40:351][361]LogWindows: Error: 
+[2022.08.08-11.09.40:351][361]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Templates\Casts.cpp] [Line: 10] 
+[2022.08.08-11.09.40:351][361]LogWindows: Error: Cast of AnimationStateMachineSchema /Script/AnimGraph.Default__AnimationStateMachineSchema to EdGraphSchema_K2 failed
+[2022.08.08-11.09.40:351][361]LogWindows: Error: 
+[2022.08.08-11.09.40:351][361]LogWindows: Error: 
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000E6304FD9 KERNELBASE.dll!UnknownFunction []
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000BC1F7884 UE4Editor-ApplicationCore.dll!FWindowsErrorOutputDevice::Serialize() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowserroroutputdevice.cpp:65]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x000000007AD86D9B UE4Editor-Core.dll!FOutputDevice::LogfImpl() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:70]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x000000007ACC1949 UE4Editor-Core.dll!FDebug::AssertFailed() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:419]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x000000007A5C2892 UE4Editor-CoreUObject.dll!CastLogError() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\templates\casts.cpp:11]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x000000007507C07C UE4Editor-Kismet.dll!CastChecked<UEdGraphSchema_K2 const ,UEdGraphSchema>() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\public\templates\casts.h:231]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x000000007512FB57 UE4Editor-Kismet.dll!FKismetVariableDragDropAction::DroppedOnPin() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismet\private\bpvariabledragdropaction.cpp:232]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000075952E53 UE4Editor-GraphEditor.dll!SGraphPin::OnDrop() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:759]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000079FA55CB UE4Editor-Slate.dll!<lambda_74ecb22bb70e3f50c9d83154dfa5c688>::operator()() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5477]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000079F7749E UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_74ecb22bb70e3f50c9d83154dfa5c688> >() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:266]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x000000007A00F862 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5473]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000079FF7D0D UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5927]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000079FEB3E2 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5907]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000BC1EE69B UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1726]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000BC1E1B78 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2172]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000BC1F052C UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:889]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000BC1DD679 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:726]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000E877E858 USER32.dll!UnknownFunction []
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000E877E299 USER32.dll!UnknownFunction []
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000BC1F1666 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000033B05475 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3263]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000033B16BD0 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000033B16C4A UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000033B24177 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x0000000033B25B87 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000E7E77034 KERNEL32.DLL!UnknownFunction []
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000E89A2651 ntdll.dll!UnknownFunction []
+[2022.08.08-11.09.40:351][361]LogWindows: Error: [Callstack] 0x00000000E89A2651 ntdll.dll!UnknownFunction []
+[2022.08.08-11.09.40:351][361]LogWindows: Error: 
+[2022.08.08-11.09.40:360][361]LogExit: Executing StaticShutdownAfterError
+[2022.08.08-11.09.40:366][361]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.08.08-11.09.40:367][361]Log file closed, 08/08/22 20:09:40
